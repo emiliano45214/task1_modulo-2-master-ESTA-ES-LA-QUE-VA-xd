@@ -15,7 +15,7 @@ function crearCards(data, where){
                     <p>
                         price $${evento.price}
                     </p>
-                    <a href="./details.html" class="btn btn-primary">see more</a>
+                    <a href="funca" class="btn btn-primary">see more</a>
                   </div>
                 </div>
               </div>`
