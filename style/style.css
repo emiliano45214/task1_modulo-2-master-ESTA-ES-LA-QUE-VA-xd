@@ -227,5 +227,17 @@ table thead{
 #navbarTogglerDemo01{
     margin-top: 9px !important;
 }
-
+.submit{
+    background-color: rgba(0, 0, 0, 0.395);
+    color: white;
+    padding: 5px;
+    transition: all 1s;
+    font-family: monospace;
+}
+.submit:hover{
+    background-color: rgba(255, 255, 255, 0.327);
+    color: black;
+    font-family: monospace;
+    border-radius: 9px;
+}
 
